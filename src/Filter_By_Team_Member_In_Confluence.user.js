@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  Adds custom filtering possibilities to Confluence (select team member to see only his/her task cards)
 // @author       TheBit
+// @copyright    2018, TheBit
+// @license MIT
 // @match        https://confluence.betlab.com/pages/*
 // @match        https://confluence.betlab.com/display/*
 // @grant        none
